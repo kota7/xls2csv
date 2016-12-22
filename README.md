@@ -1,2 +1,2 @@
 # xls2csv
-VBA macro to convert many sheets into CSV files
+VBA macro to convert many books/sheets into CSV files
